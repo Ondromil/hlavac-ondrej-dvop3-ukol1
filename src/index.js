@@ -36,4 +36,4 @@ console.log(`Brand: ${brand}, Model: ${model}, Year: ${year}`)
 
 // Generator
 let randomNum = Math.floor(Math.random()*556)
-console.log(randomNum);
+console.log(`Náhodné číslo je: ${randomNum}`);
